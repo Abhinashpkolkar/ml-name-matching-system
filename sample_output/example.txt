@@ -1,0 +1,16 @@
+Input Names:
+
+* Jon Smith
+* John Smyth
+
+Prediction:
+Match Detected
+
+Similarity Features:
+
+* TF-IDF Similarity: 0.81
+* SBERT Cosine Similarity: 0.93
+* Jaro-Winkler Score: 0.89
+
+Predicted Probability:
+0.97
