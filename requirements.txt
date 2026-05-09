@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+xgboost
+sentence-transformers
+jellyfish
+joblib
